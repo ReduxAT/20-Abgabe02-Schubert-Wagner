@@ -8,7 +8,7 @@ Ebenfalls soll ein eigener Stack implementiert werden, der jedoch alle Datentype
 Anschließend sollen zur vorgegebenen Queue-Klasse und zur selbst erstellten Klasse Tests implementiert werden. Zur selbst erstellten Queue-Klasse können optional zwei Tests erstellt werden, die die Queue mit Unterschiedlichen Datentypen befüllen.</br>
 Das gesamte Projekt soll mit Java-Doc Kommentaren versehen werden und außerdem soll eine Buildautomatisierung mit Maven umgesetzt werden.</br>
 Nebenbei soll ein Labreport geführt werden.</br>
-Grundsätzlich soll mit diesem Projekt der Umgang mit GitHub, JavaDocs, Testing und Maven erlernt werden. Dafür arbeitet man in Gruppen über GitHub, kommentiert alle Methoden und Klassen mithilfe von JavaDocs, schreibt anschließend ein Testing, dass 100 % des Projektes abdeckt und führt eine Buildautomatisierung mit Maven durch.
+Grundsätzlich soll mit diesem Projekt der Umgang mit GitHub, JavaDocs, Testing und Maven erlernt werden. Dafür arbeitet man in Gruppen über GitHub, kommentiert alle Methoden und Klassen mithilfe von JavaDocs, schreibt anschließend ein Testing, das 100 % des Projektes abdeckt und führt eine Buildautomatisierung mit Maven durch.
 
 ## To-Do-List
 - [x] Repository erstellt
