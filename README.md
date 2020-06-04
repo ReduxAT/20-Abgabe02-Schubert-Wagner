@@ -12,5 +12,14 @@ Nebenbei soll ein Labreport geführt werden.
 Grundsätzlich soll mit diesem Projekt der Umgang mit GitHub, JavaDocs, Testing und Maven erlernt werden. Dafür arbeitet man in Gruppen über GitHub, kommentiert alle Methoden und Klassen mithilfe von JavaDocs, schreibt anschließend ein Testing, dass 100 % des Projektes abdeckt und führt eine Buildautomatisierung mit Maven durch.
 
 ## To-Do-List
-
-
+- [x] Repository erstellt
+- [x] Template Projekt gepushed
+- [ ] Pom.xml mit den richtigen Meta-Informationen befüllen
+- [ ] 3-Fehler finden und korrigieren
+- [ ] Neue Implementierung die mit unterschiedlichen Klassen / Datentypen funktioniert
+- [ ] Tests erstellen (100% Testabdeckung)
+- [ ] Testfile - testen der Generic Version mit Klassen String
+- [ ] Testfile - testen der Generic Version mit beliebiger Klasse
+- [ ] Maven Site Dokumentation
+- [ ] manuell erstellte Inhalte - Maven Site
+- [ ] Lab Report vollständig und überarbeitet
