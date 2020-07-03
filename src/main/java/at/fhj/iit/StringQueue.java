@@ -68,4 +68,19 @@ public class StringQueue implements IQueue {
     return element;
   }
 
+  public List<String> getElements() {
+    return elements;
+  }
+
+  public int getMaxSize() {
+    return maxSize;
+  }
+
+  public void setElements(List<String> elements) {
+    this.elements = elements;
+  }
+
+  public void setMaxSize(int maxSize) {
+    this.maxSize = maxSize;
+  }
 }
