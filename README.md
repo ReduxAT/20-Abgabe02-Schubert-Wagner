@@ -16,8 +16,8 @@ Grundsätzlich soll mit diesem Projekt der Umgang mit GitHub, JavaDocs, Testing 
 - [x] Template Projekt gepushed
 - [ ] ReadMe weiterführen
 ### Projekt
-- [ ] Pom.xml mit den richtigen Meta-Informationen befüllen
-- [ ] 3-Fehler finden und korrigieren
+- [x] Pom.xml mit den richtigen Meta-Informationen befüllen
+- [x] 3-Fehler finden und korrigieren
 - [ ] Neue Implementierung die mit unterschiedlichen Klassen / Datentypen funktioniert
 - [ ] Tests erstellen (100% Testabdeckung)
 - [ ] Testfile - testen der Generic Version mit Klassen String
