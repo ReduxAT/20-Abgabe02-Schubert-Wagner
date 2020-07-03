@@ -16,7 +16,7 @@ public class GenericQueue<T> implements IGenQueue<T> {
 
     /**
      * Constructor for Generic Queue, set custom maxSize of queue
-     * @param maxSize
+     * @param maxsize
      * @author Dario Wagner
      */
     public GenericQueue(int maxsize) {
@@ -30,7 +30,7 @@ public class GenericQueue<T> implements IGenQueue<T> {
      * @author Dario Wagner
      */
     @Override
-    public boolean offer(T obj) {
+                    public boolean offer(T obj) {
         if (elements.size() != maxSize)
             elements.add(obj);
         else
@@ -99,4 +99,13 @@ public class GenericQueue<T> implements IGenQueue<T> {
 
         return element;
     }
+
+    public List<T> getElements() {
+        return elements;
+    }
+
+    public int getMaxSize() {
+        return maxSize;
+    }
+
 }
