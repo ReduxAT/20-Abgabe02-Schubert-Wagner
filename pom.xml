@@ -38,7 +38,9 @@
         <role>Student</role>
       </roles>
       <timezone>Europe/Vienna</timezone>
-      <properties/>
+      <properties>
+        <picUrl>https://avatars2.githubusercontent.com/u/62704280?s=400u=1c1e76fd1f646ec9bb2aa1d9f3169369bacc3785v=4</picUrl>
+      </properties>
     </developer>
   </developers>
 
