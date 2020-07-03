@@ -23,6 +23,8 @@
         <role>Student</role>
       </roles>
       <timezone>Europe/Vienna</timezone>
+      <properties>
+        <picUrl>https://avatars3.githubusercontent.com/u/27994309?s=250&v=4</picUrl>
       <properties/>
     </developer>
     <developer>
