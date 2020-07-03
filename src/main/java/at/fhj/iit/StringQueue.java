@@ -14,8 +14,8 @@ public class StringQueue implements IQueue {
   private int maxSize = 5;
 
   public StringQueue(int maxsize) {
-    this.maxSize = maxSize;
-  } //included "this."
+    maxSize = maxsize;
+  } // changed maxSize to maxsize
 
   @Override
   public boolean offer(String obj) {
