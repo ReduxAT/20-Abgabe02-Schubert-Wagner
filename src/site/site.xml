@@ -1,0 +1,12 @@
+<project name="20-Abgabe02-Schubert-Wagner">
+	<publishDate position="right"/>
+	<version position="left"/>
+	<body>
+		<menu name="Overview">
+			<item name="Queue" href="Queue.html" />
+		</menu>
+		<menu ref="reports" />
+		<menu ref="parent" />
+		<menu ref="modules" />
+	</body>
+</project>
