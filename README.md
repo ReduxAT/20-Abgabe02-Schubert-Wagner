@@ -19,11 +19,11 @@ Grundsätzlich soll mit diesem Projekt der Umgang mit GitHub, JavaDocs, Testing 
 - [x] Pom.xml mit den richtigen Meta-Informationen befüllen
 - [x] 3-Fehler finden und korrigieren
 - [x] Neue Implementierung die mit unterschiedlichen Klassen / Datentypen funktioniert
-- [ ] Tests erstellen (100% Testabdeckung)
+- [x] Tests erstellen (100% Testabdeckung)
 - [x] Testfile - testen der Klasse StringQueue
-- [ ] Testfile - testen der Generic Version mit Klassen String
-- [ ] Testfile - testen der Generic Version mit beliebiger Klasse
-- [ ] Maven Site Dokumentation
-- [ ] manuell erstellte Inhalte - Maven Site
+- [x] Testfile - testen der Generic Version mit Klassen String
+- [x] Testfile - testen der Generic Version mit beliebiger Klasse
+- [x] Maven Site Dokumentation
+- [x] manuell erstellte Inhalte - Maven Site
 ### Dokumentation
 - [ ] Lab Report vollständig und überarbeitet
